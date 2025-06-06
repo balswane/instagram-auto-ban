@@ -44,3 +44,4 @@ instagram ban bot
 instagram report software
 instagram report app
 instagram ban bot
+instagram report tool
