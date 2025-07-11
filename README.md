@@ -45,7 +45,7 @@ mass reporting instagram accounts
 # instagram report app
 # instagram ban bot
 # instagram report tool
-instagram mass report
+# instagram mass report
 instagran ban tool
 instagram mass report
 instagram report tools
