@@ -49,3 +49,4 @@ mass reporting instagram accounts
 # instagran ban tool
 # instagram mass report
 # instagram report tools
+# instagram banner
