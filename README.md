@@ -52,3 +52,4 @@ mass reporting instagram accounts
 # instagram banner
 # instagram ban 
 # insta banner
+# ig banner
