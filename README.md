@@ -58,3 +58,4 @@ mass reporting instagram accounts
 # instagram ban tool
 # instagram report ban 
 # instagram tool reporter
+# instagram ban tool
