@@ -2,9 +2,9 @@
 
 A powerful tool for reporting instagram accounts with mass reporting methods
 
-developer: https://t.me/instareport_tool
+developer: https://t.me/redsecure
 
-![ig](https://github.com/user-attachments/assets/672ac991-6ac0-4a65-af0b-aa3a9be3b949)
+<img width="497" height="365" alt="igrp" src="https://github.com/user-attachments/assets/f434eef6-e00a-42ca-b5c5-db756a419062" />
 
 
 # STEPS TO FOLLOW
@@ -13,7 +13,7 @@ developer: https://t.me/instareport_tool
 
     generate proxies, in json format
 
-developer: https://t.me/instareport_tool
+developer: https://t.me/redsecure
 
 
 # USAGE
@@ -22,7 +22,7 @@ developer: https://t.me/instareport_tool
 
 for further guide:
 
-contact developer: https://t.me/instareport_tool
+contact developer: https://t.me/redsecure
 
 automated tool for sending bulk reports to instagram IDs, fast mass report bot and take downs
 instagram reporter
