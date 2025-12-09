@@ -50,7 +50,7 @@ mass reporting instagram accounts
 # instagram mass report
 # instagram report tools
 # instagram banner
-# instagram ban 
+# instagram banner 
 # insta banner
 # ig banner tool
 # instagram ban reporter
